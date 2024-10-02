@@ -1,6 +1,13 @@
 Impacto da COVID-19 no Sistema de Saúde: Análise de Atendimento e Comportamento da População
 
-Análise dos dados PNAD COVID19 do IBGE
+Análise dos dados PNAD COVID19 do IBGE, para a análise foi utilizado Python e Power BI, além de uma apresentação em ppt.
+
+Os dados brutos podem ser obtidos aqui:
+
+https://www.ibge.gov.br/estatisticas/sociais/saude/27946-divulgacao-semanal-pnadcovid1.html?=&t=o-que-e
+
+
+Descrição:
 
 A pandemia de COVID-19 gerou uma demanda sem precedentes sobre o sistema de saúde, desafiando tanto os serviços públicos quanto privados. 
 Com o objetivo de entender melhor os padrões de busca por atendimento e as decisões de tratamento adotadas pela população, esta análise explora 
