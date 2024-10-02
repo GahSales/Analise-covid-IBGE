@@ -17,8 +17,6 @@ Ao investigar o comportamento daqueles que apresentaram múltiplos sintomas, com
 de serviços de saúde, podemos identificar pontos de pressão no sistema e oportunidades para melhorias na capacidade de resposta. Essas informações 
 são cruciais para ajustar estratégias de atendimento, otimizar recursos e mitigar impactos futuros em situações de crise sanitária.
 
-![image](https://github.com/user-attachments/assets/d6be030f-19a9-4172-9c1b-94dd5a7add44)
-
 ![image](https://github.com/user-attachments/assets/a925de93-f1e4-4867-8367-f9410b3b123b)
 
 ![image](https://github.com/user-attachments/assets/c97c48d5-673d-43c7-9d02-448538e24d2e)
