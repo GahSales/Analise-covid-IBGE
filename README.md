@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d6be030f-19a9-4172-9c1b-94dd5a7add44)Impacto da COVID-19 no Sistema de Saúde: Análise de Atendimento e Comportamento da População
+Impacto da COVID-19 no Sistema de Saúde: Análise de Atendimento e Comportamento da População
 
 Análise dos dados PNAD COVID19 do IBGE, para a análise foi utilizado Python e Power BI, além de uma apresentação em ppt.
 
@@ -16,6 +16,8 @@ aspectos como a prevalência de automedicação, o uso do SUS por pessoas com pl
 Ao investigar o comportamento daqueles que apresentaram múltiplos sintomas, como febre e falta de ar, e avaliar a utilização dos diferentes tipos 
 de serviços de saúde, podemos identificar pontos de pressão no sistema e oportunidades para melhorias na capacidade de resposta. Essas informações 
 são cruciais para ajustar estratégias de atendimento, otimizar recursos e mitigar impactos futuros em situações de crise sanitária.
+
+![image](https://github.com/user-attachments/assets/d6be030f-19a9-4172-9c1b-94dd5a7add44)
 
 ![image](https://github.com/user-attachments/assets/a925de93-f1e4-4867-8367-f9410b3b123b)
 
